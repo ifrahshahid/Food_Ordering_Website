@@ -18,4 +18,4 @@ Find how the project looks in screenshots folder .
 
 
 ### **Author**
-**Mubashara Khan**
+**Ifrah Shahid**
