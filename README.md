@@ -1,4 +1,4 @@
-# Food_Ordering_Website### **Online Food Ordering-Web**
+# Food_Ordering_Website
 Online Food Ordering System Website using basic HTML , CSS and JavaScript. It also provides menu, restaurant services, details  and reservation form for the user.
 
 ### **Home page Screenshot**
