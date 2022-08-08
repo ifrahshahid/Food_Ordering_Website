@@ -1,4 +1,4 @@
-# Food_Ordering_Website
+### **Online Food Ordering-Web**
 Online Food Ordering System Website using basic HTML , CSS and JavaScript. It also provides menu, restaurant services, details  and reservation form for the user.
 
 ### **Home page Screenshot**
@@ -18,4 +18,8 @@ Find how the project looks in screenshots folder .
 
 
 ### **Author**
-**Ifrah Shahid**
+**Mubashara Khan**
+
+**- GitHub:**   https://github.com/mubasharaKhan
+
+**- LinkedIn:**  https://www.linkedin.com/in/mubashara-khan-8161371b9
